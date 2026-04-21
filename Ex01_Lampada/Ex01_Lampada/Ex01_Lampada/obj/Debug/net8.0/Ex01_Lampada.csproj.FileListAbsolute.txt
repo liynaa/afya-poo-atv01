@@ -1,0 +1,15 @@
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\Ex01_Lampada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\Ex01_Lampada.AssemblyInfoInputs.cache
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\Ex01_Lampada.AssemblyInfo.cs
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\Ex01_Lampada.csproj.CoreCompileInputs.cache
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\Ex01_Lampada.sourcelink.json
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\bin\Debug\net8.0\Ex01_Lampada.exe
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\bin\Debug\net8.0\Ex01_Lampada.deps.json
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\bin\Debug\net8.0\Ex01_Lampada.runtimeconfig.json
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\bin\Debug\net8.0\Ex01_Lampada.dll
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\bin\Debug\net8.0\Ex01_Lampada.pdb
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\Ex01_Lampada.dll
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\refint\Ex01_Lampada.dll
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\Ex01_Lampada.pdb
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\Ex01_Lampada.genruntimeconfig.cache
+C:\Users\liyna\OneDrive\Área de Trabalho\afya-poo-atv01\Ex01_Lampada\Ex01_Lampada\Ex01_Lampada\obj\Debug\net8.0\ref\Ex01_Lampada.dll
